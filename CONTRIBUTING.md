@@ -1,6 +1,6 @@
 # Contribute
 
-REPO_NAME is under active development, and contributions are 
+External-Watchdog-OBHD is under active development, and contributions are 
 more than welcome!
 
 1.  Check for open issues or open a fresh issue to start a discussion
@@ -16,7 +16,7 @@ more than welcome!
 
 # License
 
-REPO_NAME is licensed under the [MIT License][].
+External-Watchdog-OBHD is licensed under the [MIT License][].
 
-  [the repository]: https://github.com/ccr5/REPO_NAME
+  [the repository]: https://github.com/SaganSat-EA/External-Watchdog-OBDH
   [MIT License]: https://opensource.org/licenses/MIT
