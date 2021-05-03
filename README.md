@@ -15,8 +15,6 @@
     <a href="https://github.com/SaganSat-EA/External-Watchdog-OBDH/tree/master/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SaganSat-EA/External-Watchdog-OBDH">View Demo</a>
-    ·
     <a href="https://github.com/SaganSat-EA/External-Watchdog-OBDH/issues">Report Bug</a>
     ·
     <a href="https://github.com/SaganSat-EA/External-Watchdog-OBDH/issues">Request Feature</a>
@@ -49,7 +47,7 @@
 
 ## About The Project
 
-The OBDH of SaganSat-EA has an external Watchdog according to the xxx repository. The Watchdog 
+The OBDH of SaganSat-EA has an external Watchdog according to the <OBDH_REPO> repository. The Watchdog 
 is responsible for monitoring the OBDH and, in case something unusual happens, sends a reset 
 command to the MCU. In this repository you will find the Watchdog schematic and source code.
 
